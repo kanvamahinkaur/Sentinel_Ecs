@@ -1,0 +1,29 @@
+# Dependencies
+
+node_modules/
+
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+# Private keys and credentials
+
+*.pem
+*.key
+service-account*.json
+
+# Logs
+
+*.log
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# Editor settings
+
+.vscode/
+.idea/
