@@ -1,7 +1,0 @@
-#define WIFI_SSID     "your-hotspot"
-#define WIFI_PASS     "your-pass"
-#define API_KEY       "AIzaSyC3s0nonk22rvKT-mGNGpCGHE1KakSULN8"
-#define DATABASE_URL  "https://sentinel-bc1f1-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define DEVICE_EMAIL  "xyz678@gmail.com"
-#define DEVICE_PASS   "xyz678"
-#define PHONE_NUMBER  "+91XXXXXXXXXX"
